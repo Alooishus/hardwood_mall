@@ -1,0 +1,141 @@
+
+
+#db_error{
+    float:left;
+    color:#D4D4D4;
+}
+
+body{
+    margin:auto;
+}
+
+#full{
+    margin-top:0%;
+    margin-bottom:1%;
+    width:100%;
+    background-color: #030302;
+}
+
+.table{
+    background-color: white;
+}
+
+#header{
+    background-color: #121212;
+    padding-bottom:2em;
+    padding-top:.2em;
+    text-align: center;;  
+}
+
+#subhead{
+    color:white;
+    font-size:30px;
+}
+
+#drop_downs{
+    margin-bottom:1em;
+}
+
+#table_data{
+   width:100%;
+   border:1px solid #D4D4D4;
+   margin-top:-.5em;
+   margin-bottom:1em;
+}
+footer{
+    float:left;
+}
+
+.login{
+    margin-left:3%;
+}
+
+#sidebar{
+    background-color: #961B1E;
+    margin-top:-1.5em;
+    border-radius: 2vh;
+    border:1px solid #D4D4D4;;
+    height: 100vh;
+    z-index:2;
+}
+
+#login_error{
+    color:red;
+    text-align: center;
+    font-size:2em;
+    margin:auto;
+}
+
+.btn{
+    background-color: #383838;
+}
+
+footer{
+    margin-left: 50%;
+} 
+
+h2{
+    color:#D4D4D4;
+}
+
+#sbh2{
+    color:black;
+}
+
+#edit{
+    display: block;
+    width: 10em;
+}
+
+#bundle_input_box{
+    width:60%;
+    margin-right: -10em;
+}
+
+#form_skid_edit{
+    width:100px;
+}
+
+#skid_edit_label{
+    color: #D4D4D4;
+    margin-bottom: -.1em;
+}
+
+#label_row{
+    margin-bottom: 1em;
+    width:100%;
+}
+
+#submit_button{
+    margin-right: 1em;
+    margin-top: 1em;
+    background-color: rgba(0, 255, 42, 0.699);
+    
+}
+
+#delete_button{
+    margin-right: 1em;
+    margin-top: 1em;
+    background-color: 961B1E;
+}
+
+#input_skid_add{
+    width: auto;
+}
+
+#bundle_add{
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
