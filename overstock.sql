@@ -1,4 +1,6 @@
-
+drop database if exists hardwood_mall;
+create database hardwood_mall;
+use hardwood_mall;
 
 create table vendors (
     vendor_id       INT             NOT NULL    AUTO_INCREMENT,
